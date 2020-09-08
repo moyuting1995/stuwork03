@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0; list-style: none; text-decoration: none; border: 0;}
+.topbox{width: 100%;}
+.top{width: 860px; height: 1000px; margin: auto;}
+.title{width: 860px; height: 40px; background: #CCC;}
+.title a{display: block; float: left; width: 20px; height: 20px;  text-align: center; line-height: 40px; border-radius: 50%;
+          color: #000;}
+.title .skin01{background: #E0FFFF; margin:10px;}
+.title .skin02{background: #C1FFC1; margin:10px;}
+.title .skin03{background: #CDB38B; margin:10px;}
+
+.title .size01{font-size: 18px; margin: 0 10px; font-family: 楷体; font-weight: bold; margin-left: 100px;}
+.title .size02{font-size: 16px; margin: 0 10px; font-family: 宋体; font-weight: bold; }
+.title .size03{font-size: 16px; margin: 0 10px; font-family: 黑体; font-weight: bold; }
+
+.title .font01{font-size: 14px; margin: 0 10px; font-weight: bold; float: right;}
+.title .font02{font-size: 16px; margin: 0 10px; font-weight: bold; float: right;}
+.title .font03{font-size: 18px; margin: 0 10px; font-weight: bold; float: right;}
+
+.article{width: 800px; padding: 30px;}
+.article p{line-height: 30px; text-indent: 30px; font-size: 15px;}
